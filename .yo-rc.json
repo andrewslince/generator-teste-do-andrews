@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Andrews Lince",
+      "authorEmail": "andrews.lince@gmail.com",
+      "authorUrl": "http://andrewslince.me"
+    }
+  }
+}
